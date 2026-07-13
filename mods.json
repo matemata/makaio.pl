@@ -1,0 +1,12 @@
+[
+  {
+    "name": "makaiolaunchermod-1.0.0.jar",
+    "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/makaiolaunchermod-1.0.0.jar",
+    "hash": "3b71f7fb561690012ad1cfc2ebe84bba9443233b9ef494cb2e4f7b16a66a5803"
+  },
+  {
+    "name": "fabric-api.jar",
+    "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/fabric-api.jar",
+    "hash": "1083ce79231f9d358d7b172dd43553234e2f3834993a3ae42a1ec976af5ce418"
+  }
+]
