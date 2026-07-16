@@ -15,6 +15,8 @@
   { "name": "dynamic-fps.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/dynamic-fps.jar", "hash": "a2c4865320e41deb2e462c4999804106d620c15089d61cbcb0d6505959a4a47b" },
   { "name": "e4mc.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/e4mc.jar", "hash": "bb5c88bf50d583b8457c06b1cc3b1931932482d0df812420f042088dec0052b0" },
   { "name": "entityculling.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/entityculling.jar", "hash": "05a36decbb1bbb0f785d974068c0d9c191975e0d8d637e1eb1f2f6bb84eab05a" },
+  { "name": "entity_model_features.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/entity_model_features.jar", "hash": "876a3e4ffda021a6266df87208f2d9980322cf86223d4fe1e313ca996631f115" },
+  { "name": "entity_texture_features.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/entity_texture_features.jar", "hash": "f469bc914302a13a5c767296623df60fb0cc3d4e4a02a77c56541a733ad36e3a" },
   { "name": "fabric-api.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/fabric-api.jar", "hash": "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446" },
   { "name": "fabric-language-kotlin.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/fabric-language-kotlin.jar", "hash": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832" },
   { "name": "ferritecore.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/ferritecore.jar", "hash": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22" },
