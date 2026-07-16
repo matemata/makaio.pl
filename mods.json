@@ -49,7 +49,7 @@
   { "name": "fzzy_config.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/fzzy_config.jar", "hash": "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551" },
   { "name": "InventoryProfilesNext.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/InventoryProfilesNext.jar", "hash": "944050449874618559007a008e6ce90313d325882b9ef24ba80c8ad944a9007c" },
   { "name": "libIPN-fabric.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/libIPN-fabric.jar", "hash": "21497d8053d41ce4cc154327f392634e1337e23773bbbb88a9ff69da244448be" },
-  { "name": "nocmd.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/nocmd.jar", "hash": "78f46cd9c74a54505761d3856e815812e28047235fcb6d0128ea39624a893aa9" },
+  { "name": "nocmd.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/nocmd.jar", "hash": "52cd39a183389cac75928107efd00446603223a6bdd1cf6726f7ca2b553064e1" },
   { "name": "PickUpNotifier.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/PickUpNotifier.jar", "hash": "fb427e5917c7bdca071c18fed50a48d4bb7b734697f72c21ccc0dc225a858cb7" },
   { "name": "PuzzlesLib.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/PuzzlesLib.jar", "hash": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669" },
   { "name": "shulkerboxtooltip.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/shulkerboxtooltip.jar", "hash": "f5c1e570e22511a40a762ef68642c9ae57ec8a85fcf9ea309f05622904eda36d" },
