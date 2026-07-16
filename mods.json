@@ -1,5 +1,5 @@
 [
-  { "name": "makaiolaunchermod-1.0.2.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/makaiolaunchermod-1.0.2.jar", "hash": "9a70ba80bcd7750b3f80a5c776c955466bccef4731519c8a0a0af63d68ce17d2" },
+  { "name": "iris-config.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/iris-config.jar", "hash": "abce87cd793b0ba72e247e96255a86e9422d5a64655945d155e4d01e043d4c25" },
   { "name": "animatica.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/animatica.jar", "hash": "6724b477f35b32b7bc878d73b7d56e6ab89b042cb863ed322c2bb9aa664bfc88" },
   { "name": "bbe.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/bbe.jar", "hash": "6a92718b5a2bf2c3fad78d0aef9a29f6cd9bb92bb5c8de45263dfa5e6010b6e0" },
   { "name": "BetterGrassify.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/BetterGrassify.jar", "hash": "823e14c7b41c0656d66948eb9e00cced829cdfac19a92d64f4b830df05a2ddf9" },
@@ -43,5 +43,16 @@
   { "name": "sodium-shadowy-path-blocks.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/sodium-shadowy-path-blocks.jar", "hash": "6c4733f6ad65519203e30491e7872fb53431754a4a891ade9db951e07885339f" },
   { "name": "sodium.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/sodium.jar", "hash": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b" },
   { "name": "yet_another_config_lib.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/yet_another_config_lib.jar", "hash": "0aaedb63e398ab2e8d1b61439dac0ed6edf913fd10fc47a6cd56f01811db7283" },
-  { "name": "zoomify.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/zoomify.jar", "hash": "e014d36408e3d957bfce4d02d55d3703041902fa88bf96062694d69234b2d9e9" }
+  { "name": "zoomify.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/zoomify.jar", "hash": "e014d36408e3d957bfce4d02d55d3703041902fa88bf96062694d69234b2d9e9" },
+  { "name": "BetterAdvancements.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/BetterAdvancements.jar", "hash": "1fdac32be823d13a7ec89da63349d0f013ba2331260db1c3d8c890aafc9bfd78" },
+  { "name": "betterstats.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/betterstats.jar", "hash": "03bea288562a0de9b0a611a6da8832b55e352882ebb1ea89a70fc8e6bc1af9b9" },
+  { "name": "fzzy_config.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/fzzy_config.jar", "hash": "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551" },
+  { "name": "InventoryProfilesNext.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/InventoryProfilesNext.jar", "hash": "944050449874618559007a008e6ce90313d325882b9ef24ba80c8ad944a9007c" },
+  { "name": "libIPN-fabric.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/libIPN-fabric.jar", "hash": "21497d8053d41ce4cc154327f392634e1337e23773bbbb88a9ff69da244448be" },
+  { "name": "nocmd.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/nocmd.jar", "hash": "78f46cd9c74a54505761d3856e815812e28047235fcb6d0128ea39624a893aa9" },
+  { "name": "PickUpNotifier.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/PickUpNotifier.jar", "hash": "fb427e5917c7bdca071c18fed50a48d4bb7b734697f72C21ccc0dc225a858cb7" },
+  { "name": "PuzzlesLib.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/PuzzlesLib.jar", "hash": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669" },
+  { "name": "shulkerboxtooltip.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/shulkerboxtooltip.jar", "hash": "f5c1e570e22511a40a762ef68642c9ae57ec8a85fcf9ea309f05622904eda36d" },
+  { "name": "SubtleEffects.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/SubtleEffects.jar", "hash": "c132d9138670c6c7821f233064db8e3a17c21f5b381fd31f723b1b3c9108f83a" },
+  { "name": "tcdcommons.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/tcdcommons.jar", "hash": "55e7a71298fec7f7796a86ea41600de8742c3f1bd360eb006fee7b5f73951972" },
 ]
