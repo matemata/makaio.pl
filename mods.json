@@ -1,5 +1,5 @@
 [
-  { "name": "iris-config.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/iris-config.jar", "hash": "7541371d25d8a358a7c420f554b493f48bceffe572a1bb4f6499efecbae358b9" },
+  { "name": "iris-config.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/iris-config.jar", "hash": "d3100d9061c7c2fcc8a1a2120ca9d0f00d8d1f0782904569f825d881e69056fb" },
   { "name": "animatica.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/animatica.jar", "hash": "6724b477f35b32b7bc878d73b7d56e6ab89b042cb863ed322c2bb9aa664bfc88" },
   { "name": "bbe.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/bbe.jar", "hash": "6a92718b5a2bf2c3fad78d0aef9a29f6cd9bb92bb5c8de45263dfa5e6010b6e0" },
   { "name": "BetterGrassify.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/BetterGrassify.jar", "hash": "823e14c7b41c0656d66948eb9e00cced829cdfac19a92d64f4b830df05a2ddf9" },
@@ -53,5 +53,8 @@
   { "name": "PuzzlesLib.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/PuzzlesLib.jar", "hash": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669" },
   { "name": "shulkerboxtooltip.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/shulkerboxtooltip.jar", "hash": "f5c1e570e22511a40a762ef68642c9ae57ec8a85fcf9ea309f05622904eda36d" },
   { "name": "SubtleEffects.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/SubtleEffects.jar", "hash": "c132d9138670c6c7821f233064db8e3a17c21f5b381fd31f723b1b3c9108f83a" },
-  { "name": "tcdcommons.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/tcdcommons.jar", "hash": "55e7a71298fec7f7796a86ea41600de8742c3f1bd360eb006fee7b5f73951972" }
+  { "name": "tcdcommons.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/tcdcommons.jar", "hash": "55e7a71298fec7f7796a86ea41600de8742c3f1bd360eb006fee7b5f73951972" },
+  { "name": "skinlayers3d.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/skinlayers3d.jar", "hash": "3b553acd510f3395b00ca1c26b5bb2e990c420a415350aec84d0f4255f3ca0a5" },
+  { "name": "xaerominimap.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/xaerominimap.jar", "hash": "69284892d2eb853c9aefa85a4c9b74232c322da00207994c67ab8aeed8a64048" },
+  { "name": "xaeroworldmap.jar", "url": "https://raw.githubusercontent.com/matemata/makaio.pl/refs/heads/main/mods/xaeroworldmap.jar", "hash": "d55ef45c559ae0adcf66d894c022f61d9d921629b0c885d04aa00424546a2389" }
 ]
